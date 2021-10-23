@@ -11,5 +11,5 @@
 -->
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=NebelFox&show_icons=true&theme=nightowl&border_radius=20" align="left" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebelFox&theme=nightowl&hide=cmake&layout=compact&border_radius=20" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=NebelFox&show_icons=true&theme=nightowl&border_radius=20" width="450">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebelFox&theme=nightowl&hide=cmake&layout=compact&border_radius=20" width="450">
