@@ -1,8 +1,8 @@
 👋 Hi, I’m @NebelFox  
 ---
 - **👀 I’m interested in software engineering and game development**
-- **🌱 I’m currently learning `C#`**
-- **🪀 Experienced with** `Solar2D`, `pandas`, `pygame`
+- **🌱 I’m currently learning `Scala`**
+- **🪀 Experienced with** `Solar2D`, `pandas`, `pygame`, `C#`, `C++`
 
 <!--
 ---
